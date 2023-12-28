@@ -88,7 +88,7 @@ class Calculadora {
             case '-':
                 resultado = conversionValorSuperior - conversionValorInferior
             break
-            case '*':
+            case 'x':
                 resultado = conversionValorSuperior * conversionValorInferior
             break
             case '÷':
